@@ -4,7 +4,7 @@
 <p align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=karnrk&label=Profile%20views&color=0e75b6&style=flat" alt="karnrk" /> </p>
 
-- 🌱 I’m currently learning **React,Node.js,**
+- 🌱 I’m currently learning **React,Node.js,MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://karnrk.github.io/profile/](https://karnrk.github.io/profile/)
 

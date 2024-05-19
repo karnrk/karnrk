@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,Node.js,MongoDB**
 
-- 👨‍💻 All of my projects are available at [[https://karnrk.github.io/profile/](https://github.com/karnrk/Module)](https://karnrk.github.io/profile/)
+- 👨‍💻 All of my projects are available at [(https://github.com/karnrk/Module)]
 
 - 💬 Ask me about **HTML,CSS,Query,JS,Hubl Code**
 

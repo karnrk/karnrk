@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://github.com/karnrk/Module)]
 
-- 💬 Ask me about **HTML,CSS,Query,JS,Hubl Code**
+- 💬 Ask me about **HTML, CSS, Query, Javascript, Hubl Code**
 
 - 📫 How to reach me **krnrk5@gmail.com**
 
@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/karnrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="karnrk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar" height="30" width="40" /></a>
+<a href="linkedin.com/in/karnrk5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/karnrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karnrk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/karnrkyt rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karnrkyt rider" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@karnrkyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karnrkyt rider" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
